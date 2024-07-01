@@ -17,9 +17,9 @@
 
 <br>
 
-[코드 저장소](https://github.com/rickiepark/hg-mldl)
-[🙋‍♂️Q&A: 박해선 저자님의 github](https://groups.google.com/g/ml-dl-book-qna?pli=1)
-[💻유튜브 강의: 👉전체 강의 목록](https://www.youtube.com/playlist?list=PLVsNizTWUw7HpqmdphX9hgyWl15nobgQX)
+- [코드 저장소](https://github.com/rickiepark/hg-mldl)
+- [🙋‍♂️Q&A: 박해선 저자님의 github](https://groups.google.com/g/ml-dl-book-qna?pli=1)
+- [💻유튜브 강의: 👉전체 강의 목록](https://www.youtube.com/playlist?list=PLVsNizTWUw7HpqmdphX9hgyWl15nobgQX)
 
 <br>
 
